@@ -15,7 +15,7 @@ void main() {
     // Build our app and trigger a frame.
     await tester.pumpWidget(
       // const MyApp()
-      return MaterialApp(
+      MaterialApp(
       home: Scaffold(
         backgroundColor: const Color.fromARGB(255, 0, 37, 34),
         appBar: AppBar(
