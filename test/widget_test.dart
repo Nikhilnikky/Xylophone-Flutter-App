@@ -32,7 +32,7 @@ void main() {
                 FlatButton(
                   color: const Color.fromARGB(255, 255, 238, 2),
                   onPressed: () {
-                    playSound(1);
+                    // playSound(1);
                   },
                   child: const Text(""),
                   height: 70,
@@ -40,7 +40,7 @@ void main() {
                 FlatButton(
                   color: const Color.fromARGB(255, 2, 255, 11),
                   onPressed: () {
-                    playSound(2);
+                    // playSound(2);
                   },
                   child: const Text(""),
                   height: 70,
@@ -48,7 +48,7 @@ void main() {
                 FlatButton(
                   color: const Color.fromARGB(255, 0, 247, 247),
                   onPressed: () {
-                    playSound(3);
+                    // playSound(3);
                   },
                   child: const Text(""),
                   height: 70,
@@ -56,7 +56,7 @@ void main() {
                 FlatButton(
                   color: const Color.fromARGB(255, 2, 91, 255),
                   onPressed: () {
-                    playSound(4);
+                    // playSound(4);
                   },
                   child: const Text(""),
                   height: 70,
@@ -64,7 +64,7 @@ void main() {
                 FlatButton(
                   color: const Color.fromARGB(255, 112, 2, 255),
                   onPressed: () {
-                    playSound(5);
+                    // playSound(5);
                   },
                   child: const Text(""),
                   height: 70,
@@ -72,7 +72,7 @@ void main() {
                 FlatButton(
                   color: const Color.fromARGB(255, 255, 2, 213),
                   onPressed: () {
-                    playSound(6);
+                    // playSound(6);
                   },
                   child: const Text(""),
                   height: 70,
@@ -80,7 +80,7 @@ void main() {
                 FlatButton(
                   color: const Color.fromARGB(255, 255, 2, 78),
                   onPressed: () {
-                    playSound(7);
+                    // playSound(7);
                   },
                   child: const Text(""),
                   height: 70,
